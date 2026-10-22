@@ -8,5 +8,5 @@
 6. **Performance Comparison** - Chart comparing performance across the quarter, highlighting average improvement.
 7. **Atlas Platform Q3 Release Rollout - Analysis** - Key points and supporting details of the deeper rollout analysis.
 8. **Thank You** - Closing slide inviting questions and discussion.
-9. **Community Voice** - A real, currently active discussion from an open-source project using GitHub Discussions (Next.js), with the project name, the actual discussion title and a one-line takeaway from the opening post.
-10. **Ship Log** - Audit trail table with repository, branch, merged pull request, merge state and merge commit.
+9. **Community Voice** - Active Next.js (vercel/next.js) GitHub Discussion "Serving a remote MCP server from a Next.js App Router route handler (Streamable HTTP, stateless)": a stateless remote MCP endpoint can be served from a single App Router route handler with force-dynamic and bounded fetches.
+10. **Ship Log** - Audit trail table with repository, branch, merged pull request number, merge state and merge commit SHA.
